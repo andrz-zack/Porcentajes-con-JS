@@ -21,6 +21,7 @@ html {
 }
 .labels input {
     width: 80%;
+    ;
 
 }
 button {
@@ -34,4 +35,10 @@ button:hover {
     font-weight: bold;
     transform: scaleY(1.2);
 
+}
+#price {
+    margin-bottom: 25px;
+}
+#descuento {
+     margin-bottom: 25px;
 }
