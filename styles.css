@@ -1,0 +1,37 @@
+html {
+    background-color: rgb(8, 3, 80);
+    color: white;
+}
+
+.conjunto {
+    border: 5px solid yellowgreen;
+    margin: 16%;
+    padding: 20%;
+
+}
+.title {
+    text-align: center;
+    margin: -23px;
+}
+.labels {
+    text-align: center;
+    justify-content: space-between;
+    margin-top: 31px;
+    margin-right: -6px;
+}
+.labels input {
+    width: 80%;
+
+}
+button {
+    margin-top: 25px;
+    cursor: pointer;
+    
+}
+button:hover {
+    background: /* ;*/ rgba(221, 135, 6, 0.856); 
+    color: rgb(24, 25, 29);
+    font-weight: bold;
+    transform: scaleY(1.2);
+
+}
